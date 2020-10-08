@@ -20,6 +20,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+project.xcworkspace
 
 # Android/IntelliJ
 #
@@ -57,3 +58,7 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+VoxImplantDemo.xcworkspace
+VoximplantDemo.xcworkspace
+
+android/app/google-services.json
